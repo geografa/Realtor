@@ -1,0 +1,165 @@
+#slideshow-container{
+	width: 100%;
+	height: 370px;
+	margin: 0px;
+	padding: 0px;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-image: url(../images/shadow-slideshow.jpg);
+}
+
+#slideshow-holder{
+	height: 365px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	position: relative;
+	width: 240px;
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #00778f;
+}
+.carousel {
+	position:relative;
+	height: 290px;
+	width: 944px;
+	overflow:hidden;
+	-moz-border-radius:3px; 
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	border: 8px solid #333333;
+}
+.carousel h3 {
+	color: #fff;
+	font-size: 22px;
+}
+.carousel h3 a {
+	display: block;
+	padding-bottom: 15px;
+	font-size: 1.2em;
+}
+.carousel h3 a:hover {
+	text-decoration: none;
+}
+.carousel .backgrounds {
+	height: 290px;
+}
+.carousel .backgrounds .item {
+	width: 944px;
+	height: 290px;
+	float:left;
+	position:relative;
+	z-index:1;
+}
+.carousel .panel {
+	color: #fff;
+	position:absolute;
+	right: 0;
+	top:15;
+	height: 290px;
+	width: 275px;
+	z-index:2;
+	background-image: url(../images/transparent_bg.png);
+	background-repeat: repeat;
+}
+.carousel .panel .paging {
+	position:absolute;
+	bottom: 20px;
+	width: 275px;
+	text-align:center;
+}
+.carousel .panel .paging a {
+	font-size: 11px;
+	margin-bottom: -12px;
+	font-weight: bold;
+}
+.carousel .panel .paging #numbers a {
+	padding-top: 0;
+	padding-right: 5px;
+	padding-bottom: 0;
+	padding-left: 5px;
+}
+.carousel .panel .paging #numbers a.selected {
+    color: #fff;
+}
+.carousel .panel .pause {
+	position:absolute;
+	right:5px;
+	top:5px;
+	display:block;
+	width: 22px;
+	height: 22px;
+	text-indent: -6000px;
+	background-color: transparent;
+	background-image: url(../images/bullets-dualslider.png);
+	background-repeat: no-repeat;
+	background-position: left -112px;
+}
+.carousel .panel .play {
+	position:absolute;
+	right:5px;
+	top:5px;
+	display:block;
+	width: 22px;
+	height: 22px;
+	text-indent: -6000px;
+	background-color: transparent;
+	background-image: url(../images/bullets-dualslider.png);
+	background-repeat: no-repeat;
+	background-position: left -90px;
+}
+.carousel .panel .paging .next {
+	position:absolute;
+	right:15px;
+	bottom:0px;
+	display:block;
+	width: 32px;
+	height: 45px;
+	text-indent: -6000px;
+	background-color: transparent;
+	background-image: url(../images/bullets-dualslider.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.carousel .panel .paging .previous {
+	position:absolute;
+	left:15px;
+	bottom:0px;
+	display:block;
+	width: 32px;
+	height: 45px;
+	text-indent: -6000px;
+	background-color: transparent;
+	background-image: url(../images/bullets-dualslider.png);
+	background-repeat: no-repeat;
+	background-position: left -45px;
+}
+.carousel .panel .details_wrapper {
+	position:absolute;
+	top:20px;
+	left:25px;
+	width: 225px;
+	overflow:hidden;
+}
+.carousel .panel .details_wrapper .details {
+	height: 200px;
+}
+.carousel .panel .details_wrapper .details .detail {
+    width: 225px;
+    height: 200px;
+    float:left;
+    
+}
+.carousel .panel .details_wrapper .details h2 {
+    line-height: 1.2em;
+    margin: 0 0 5px 0;
+}
+.carousel .panel .details_wrapper .details a.more {
+    color: #fff;
+}   

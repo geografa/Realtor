@@ -1,0 +1,30 @@
+<div id="header">
+	Complete the form below, then click on areas and/or neighborhoods for which you would like to receive listings. You will start getting these Daily Emails tomorrow, and you will <em>never</em> be spammed from this source.	
+</div>
+
+<table>
+	<tbody>
+		<tr>
+			<td align="right"><div>Name</div></td>
+			<td><input name="name" size="30" maxlength="50" type="text"></td>
+		</tr>
+		<tr>
+			<td align="right"><div>Email</div></td>
+			<td><input name="email" size="30" maxlength="50" type="text"></td>
+		</tr>
+		<tr>
+			<td align="right"><div>Phone</div></td>
+			<td><input name="phone" size="30" maxlength="30" type="text"></td>
+		</tr>
+		<tr>
+			<td align="right"><div>Price</div></td>
+			<td><input name="lp" size="3" maxlength="10" style="width: 40px;" value="any" onfocus="clearAny(this);" type="text">,000
+&nbsp;<strong>to&nbsp;&nbsp;</strong>&nbsp;<input name="hp" size="3" maxlength="10" style="width: 40px;" value="any" onfocus="clearAny(this);" type="text">,000</td>
+		</tr>
+	</tbody>
+</table>
+
+<div id="areas" style="overflow:auto; width:180px; height:100px; border:1px solid #555; background:#fff;"></div>
+							
+<input value="Submit" class="bn2" style="width: 70px;" onclick="if(checkFields()){document.main.op.value='confirm';document.main.submit();}" type="button">
+							

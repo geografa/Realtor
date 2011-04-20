@@ -1,0 +1,371 @@
+/* sitestyle.css stylesheet, version 4.1, 2004-07-20, Hot Pepper, Inc., www.hotpepper.com */
+
+/* initial conditions ============================================== */
+/*
+*
+	{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+*/
+/* /initial conditions ============================================== */
+
+/* Tag styles ========================================================= */
+body
+	{
+	background-color: #F0F0F0;
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+
+p
+	{
+	font: normal 12px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	margin: 0px 0px 10px 0px;
+	}
+
+p.m0 {margin: 0px 0px 0px 0px;}
+p.m5 {margin: 0px 0px 5px 0px;}
+p.m15 {margin: 0px 0px 15px 0px;}
+
+div {font: normal 12px Trebuchet MS, verdana, helvetica, arial, sans-serif;}
+
+b {font-weight: bold;}
+i {font-style: italic;}
+u {text-decoration: none;}
+
+a 
+	{
+	color: #FB670E;
+	text-decoration: none;
+	}
+a:visited {color: #FB670E;}
+a:hover
+	{
+	color: #000000;
+	text-decoration: underline;
+	}
+
+h1
+	{
+	font: bold 16px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	margin: 0px 0px 5px 0px;
+	color: #05335E;
+	text-transform: uppercase;
+	}
+h2
+	{
+	font: bold 14px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	margin: 0px 0px 5px 0px;
+	color: #05335E;
+	text-transform: uppercase;
+	}
+h3
+	{
+	font: bold 12px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	margin: 0px 0px 5px 0px;
+	color: #05335E;
+	text-transform: uppercase;
+	}
+
+table {border-collapse: collapse;}
+td
+	{
+	margin: 0px;
+	padding: 0px;
+	}
+/* /Tag styles ========================================================= */
+
+/* list styles ========================================================= */
+/*
+IMPORTANT!!!
+when setting list-style-image to an image,
+the other list types MUST be set to list-style-image: none
+or else they will display the image instead of the appropriate marker
+*/
+ul
+	{
+	margin: 0px 0px 0px 8px;
+	padding: 0px 0px 0px 8px;
+	font: normal 12px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	list-style-image: none; 
+	list-style-type: circle;
+	}
+ul.bullet {list-style-image: url("/imagessites/site2/bullet.gif");}
+ul.disc {list-style-image: none; list-style-type: disc;}
+ul.circle {list-style-image: none; list-style-type: circle;}
+ul.square {list-style-image: none; list-style-type: square;}
+
+ol
+	{
+	margin: 0px 0px 0px 14px;
+	padding: 0px 0px 0px 14px;
+	font: normal 12px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	list-style-image: none; 
+	}
+ol.decimal {list-style-image: none; list-style-type: decimal;}
+ol.ur {list-style-image: none; list-style-type: upper-roman;}
+ol.lr {list-style-image: none; list-style-type: lower-roman;}
+ol.ua {list-style-image: none; list-style-type: upper-alpha;}
+ol.la {list-style-image: none; list-style-type: lower-alpha;}
+
+li
+	{
+	font: normal 12px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	margin: 0px 0px 5px 10px;
+	}
+/* /list styles ========================================================= */
+
+/* form ================================================================= */
+form,input,select,option,textarea
+	{
+	font: normal 12px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+div.form1 div {font: bold 10px Trebuchet MS, verdana, helvetica, arial, sans-serif;}
+div.form1 p {font: bold 10px Trebuchet MS, verdana, helvetica, arial, sans-serif;}
+div.form1 .txt {font: normal 12px Trebuchet MS, verdana, helvetica, arial, sans-serif;}
+div.form1 input {width: 300px;}
+div.form1 textarea {width: 300px;}
+div.form1 input.bn1
+	{
+	width: 50px;
+	font: normal 10px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	}
+div.form1 input.bn2
+	{
+	border-style: solid; border-width: 1px 1px 1px 1px; border-color: #FB670E;
+	padding: 0px 4px 0px 4px;
+	font-size: 11px; font-weight: bold; color: #FB670E;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #FB670E;
+	}
+
+div.form1 input.radio/* radio buttons */
+	{
+	/* NOTE: the font MUST be defined, and as font: not font-family: etc.*/
+	font: bold 10px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	background-color: #ffffff;
+	width: 20px;
+	vertical-align: -2px;
+	}
+div.form1 input.checkbox {width: 15px; height: 15px;}
+div.form1 input.px150 {width: 150px;}
+div.form1 input.px100 {width: 100px;}
+div.form1 input.px75 {width: 75px;}
+div.form1 input.px50 {width: 50px;}
+
+div.form1 textarea.px200 {width: 200px;}
+
+.required {color: #cc0000;}
+/* /form ================================================================= */
+
+/* shims and pads ======================================================== */
+p.shim3 {margin: 0px; line-height: 3px; font-size: 3px;}
+p.shim5 {margin: 0px; line-height: 5px; font-size: 5px;}
+p.shim10 {margin: 0px; line-height: 10px; font-size: 10px;}
+p.shim15 {margin: 0px; line-height: 15px; font-size: 15px;}
+
+.padtop5 {padding-top: 5px;}
+.padright5 {padding-right: 5px;}
+.padbottom5 {padding-bottom: 5px;}
+.padleft5 {padding-left: 5px;}
+
+.padtop10 {padding-top: 10px;}
+.padright10 {padding-right: 10px;}
+.padbottom10 {padding-bottom: 10px;}
+.padleft10 {padding-left: 10px;}
+
+.padtop15 {padding-top: 15px;}
+.padright15 {padding-right: 15px;}
+.padbottom15 {padding-bottom: 15px;}
+.padleft15 {padding-left: 15px;}
+
+.pad5 {padding: 5px;}
+.pad10 {padding: 10px;}
+.pad15 {padding: 15px;}
+
+table.tblpad3 td {padding: 3px;}
+table.tblpad5 td {padding: 5px;}
+/* /shims and pads ======================================================== */
+
+/* border classes ===================================================================== */
+.dottedtop {border-style: dotted; border-top-width: 1px; border-color: #000000;}
+.dottedright {border-style: dotted; border-right-width: 1px; border-color: #000000;}
+.dottedbottom {border-style: dotted; border-bottom-width: 1px; border-color: #000000;}
+.dottedleft {border-style: dotted; border-left-width: 1px; border-color: #000000;}
+
+.dashedtop {border-style: dashed; border-top-width: 1px; border-color: #000000;}
+.dashedright {border-style: dashed; border-right-width: 1px; border-color: #000000;}
+.dashedbottom {border-style: dashed; border-bottom-width: 1px; border-color: #000000;}
+.dashedleft {border-style: dashed; border-left-width: 1px; border-color: #000000;}
+
+.solidtop {border-style: solid; border-top-width: 1px; border-color: #000000;}
+.solidright {border-style: solid; border-right-width: 1px; border-color: #000000;}
+.solidbottom {border-style: solid; border-bottom-width: 1px; border-color: #000000;}
+.solidleft {border-style: solid; border-left-width: 1px; border-color: #000000;}
+
+.stroke1 {border-style: solid; border-width: 1px 1px 1px 1px; border-color: #000000;}
+/* /border classes ===================================================================== */
+
+/* generic text classes ========================================================= */
+.txt {font: normal 12px Trebuchet MS, verdana, helvetica, arial, sans-serif;}
+.smtxt {font-size: 10px;}
+.lgtxt {font-size: 14px}
+.xlgtxt {font-size: 16px}
+.xxlgtxt {font-size: 18px}
+.dtxt {line-height: 1.5}
+/* /generic text classes ========================================================= */
+
+/* background color classes ========================================================= */
+.line1 {background-color: #000000;}
+.bg1 {background-color: #ffffff;}
+/* /background color classes ========================================================= */
+
+/* buttons =========================================================================== */
+/* NOTE: do NOT put these stroked buttons in a tight table, or IE will 
+cut off the top border. If you MUST put them into a tight table, 
+set the cellpadding to be equal with the padding below */
+a.bn1, a:visited.bn1, input.bn1
+	{
+	border-style: solid; border-width: 1px 1px 1px 1px; border-color: #FB670E;
+	padding: 0px 4px 2px 4px;
+	font-size: 11px; font-weight: bold;
+	color: #FB670E;
+	text-decoration: none;
+	text-transform: uppercase;
+	background-color: #f1f2fc;
+	cursor: pointer;
+	}
+a.bn1:hover, input:hover.bn1
+	{
+	color: #FB670E;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-style: solid; border-width: 1px 1px 1px 1px; border-color: #FB670E;
+	}
+
+a.bn2, a.bn2:visited
+	{
+	border-style: solid; border-width: 1px 1px 1px 1px; border-color: #FB670E;
+	padding: 0px 4px 0px 4px;
+	font-size: 11px; font-weight: bold; color: #FB670E;
+	text-decoration: none;
+	text-transform: uppercase;
+	}
+a.bn2:hover
+	{
+	border-style: solid; border-width: 1px 1px 1px 1px; border-color: #FB670E;
+	color: #FB670E; text-decoration: none;
+	text-transform: uppercase;
+	}
+/* /buttons =========================================================================== */
+
+
+/* misc classes ===================================================================== */
+.block {display: block;}
+.inline {display: inline;}
+.none {display: none;}
+.clear {display: clear;}
+
+.floatright {float: right;}
+.floatleft {float: left;}
+/* /misc classes ===================================================================== */
+
+div.shell
+	{
+	width:944px;
+	/* centers this div on the page, also, see body definition above */
+	margin: 0px auto 0px auto;
+	text-align: left;
+	/* /centers this div on the page */
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color: #000000;
+	background-color: #F5F9FF;
+	}
+
+td.header
+	{
+	width: 944px;
+	height: 69px;
+	background-image: url("/imagessites/site2/header_blue.jpg");
+	background-repeat: no-repeat;
+	padding: 0px 0px 0px 10px;
+	border-style: solid;
+	border-width: 0px 0px 1px 0px;
+	border-color: #000000;
+	}
+	
+/* nav =============================================================== */
+div.mainnav
+	{
+	text-align: left;
+	padding: 5px 0px 5px 10px;
+	xmargin: 0px 10px 0px 10px;
+	background-color: #F5F9FF;
+	color: #000000;
+	border-style: solid;
+	border-width: 0px 0px 0px 0px;
+	border-color: #000000;
+	color: #FB670E;
+	text-transform: uppercase;
+	}
+div.mainnav a.nav, div.mainnav a:visited.nav
+	{
+	font: bold 12px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	color: #FB670E;
+	text-decoration: none;
+	}
+div.mainnav a:hover.nav
+	{
+	color: #000000;
+	text-decoration: none;
+	text-transform: uppercase;
+	}
+div.mainnav a.navstatic, div.mainnav a:visited.navstatic
+	{
+	font: bold 12px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	color: #000000;
+	text-decoration: none;
+	text-transform: uppercase;
+	}
+div.mainnav a:hover.navstatic
+	{
+	color: #000000;
+	text-decoration: none;
+	text-transform: uppercase;
+	}
+
+div.footernav {text-align: center;}
+div.footernav a, div.footernav a:visited  
+	{
+	font: bold 10px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	color: #FB670E;
+	}
+div.footernav a:hover
+	{
+	font: bold 10px Trebuchet MS, verdana, helvetica, arial, sans-serif;
+	color: #000000;
+	}  
+/* /nav =============================================================== */
+
+div.pagecontent
+	{
+	padding: 10px 10px 10px 10px;
+	}
+
+.bracket {background-color: #CCD8EA;}
+
+td.colleft {vertical-align: top;}
+div.colleft {}
+div.colleft p, .colleft div {}
+
+td.colright {vertical-align: top;}
+div.colright {padding: 0px 0px 0px 10px;}
+div.colright p, .colright div {font-size: 12px;}
+	
+.del {font-size:8px; color:blue; cursor:pointer;}

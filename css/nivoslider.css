@@ -1,0 +1,118 @@
+.slideshow-container{
+	width:100%;
+/*	background-image: url(../images/shadow-slideshow.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;*/
+}
+.slideshow{
+	margin-left:auto;
+	margin-right:auto;
+	width:960px;
+	padding-top:15px;
+	height: 540px;
+}
+#slidernivo {
+	position:relative;
+	width:640px;
+	height:480px;
+	border:30px solid #FFF;
+	margin-left:auto;
+	margin-right:auto;
+	-moz-border-radius: 3px; 
+	-webkit-border-radius: 3px; 		
+	border-radius: 3px;
+/*	background-color: #630;*/
+}
+#slidernivo {
+	background-image: url(../images/loading.gif);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+#slidernivo img {		
+	display:none;
+}
+.nivoSlider {
+	position:relative; 
+}
+.nivoSlider img {					
+	position:absolute;	
+	top:0px;	
+	left:0px;	
+}
+.nivoSlider a.nivo-imageLink {	
+	position:absolute;	
+	z-index:60;	
+	display:none;	
+	top:0px;	
+	left:0px;	
+	width:100%;	
+	height:100%;	
+	border:0;	
+	padding:0;	
+	margin:0;	
+}
+.nivo-slice {					
+	position:absolute;	
+	z-index:50; 
+	display:block;		
+	height:100%;	
+}
+.nivo-controlNav {				
+	left:0px;	
+}
+.nivo-controlNav {				
+	position:absolute;	
+	bottom:-20px;
+}
+.nivo-controlNav a {
+	position:relative;
+	z-index:99;
+	cursor:pointer;
+	display:block;
+	width:7px;
+	height:7px;
+	border:0;
+	float:left;
+	text-indent:-99999px;
+	background-color: #333333;
+	-moz-border-radius: 3px; 
+	-webkit-border-radius: 3px; 		
+	border-radius: 3px;
+	margin-right: 7px;
+}
+.nivo-controlNav a:hover {
+	background-color: #FFFFFF;
+}
+.nivo-controlNav a.active {
+	display:block;
+	border:0;
+	background-color: #390;
+}
+/* Caption styles */
+.nivo-caption {
+	position:absolute;
+	bottom:20px;
+	color:#CCCCCC;
+	opacity:0; /* Overridden by captionOpacity setting */
+	max-width:905px;
+	z-index:100;
+	background-color: #000;
+	left: 0px;
+	padding-top: 15px;
+	padding-right: 10px;
+	padding-bottom: 15px;
+	padding-left: 10px;
+	-moz-border-radius-topright:3px; 
+	-moz-border-radius-bottomright:3px;
+	-webkit-border-bottom-right-radius:3px;
+	-webkit-border-top-right-radius:3px;
+	border-bottom-right-radius: 3px;
+	border-top-right-radius: 3px;
+}
+.nivo-caption p {
+	padding:0px;
+	margin:0px;
+	font-variant: normal;
+	font-size: 16px;
+	font-weight: normal;
+}

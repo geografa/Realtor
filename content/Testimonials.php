@@ -13,21 +13,17 @@
 <div id="wrapper">	
 	<div id="content">
 		<div id="sidebar" class="right">
-			<div class="img">
-				<img src="images/sunroom.jpg" width="240" height="180" alt="Sunroom">
-			</div>
-			<p>Caption for the image of a sunroom.
-			</p>
-			<div class="img">
-				<img src="images/office.jpg" width="240" height="180" alt="Office">
-			</div>
-			<p>Caption for the image of a office.
-			</p>
-			<div class="img">
-				<img src="images/front porch.jpg" width="240" height="180" alt="Front Porch">
-			</div>
-			<p>Caption for the image of a front porch.
-			</p>
+				<?php
+				$dir = scandir("images/testimonials");
+				$result = count($dir);
+				$i=2;
+				while($i<=$result)
+					{
+						echo "<div class='img'><img src='images/testimonials/$dir[$i]' /></div>";
+						$i++;
+					}
+				?>
+				<!-- <img src="images/testimonials/blah.jpg" /> -->
 
 		</div><!-- END sidebar -->
 		<div id="inner-content">

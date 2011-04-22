@@ -1,5 +1,6 @@
 .slideshow-container{
 	width:100%;
+	
 /*	background-image: url(../images/shadow-slideshow.jpg);
 	background-repeat: no-repeat;
 	background-position: center bottom;*/
@@ -27,6 +28,9 @@
 	background-image: url(../images/loading.gif);
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
+}
+#slidernivo.left {
+	float: left; /*comment out to align center*/#slidernivo 
 }
 #slidernivo img {		
 	display:none;

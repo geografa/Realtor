@@ -13,7 +13,7 @@
 			<?php
 			$dir = scandir("images/slides");
 			$result = count($dir);
-			$i=0;
+			$i=3;
 			while($i<=$result)
 				{
 					echo "<img src='images/slides/$dir[$i]' />";

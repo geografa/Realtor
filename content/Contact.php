@@ -12,7 +12,9 @@
 		
 		<div class="two-even">
 			<div class="contact-information">
-				<img src="images/map.jpg" alt="" class="map" />			
+				<div class="map">
+					<iframe width="424" height="270" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=237+NE+Broadway,+Suite+100+Portland,+OR+97232&amp;ie=UTF8&amp;hq=&amp;hnear=237+NE+Broadway+St,+Portland,+Oregon+97232&amp;gl=us&amp;ll=45.535333,-122.663383&amp;spn=0.013407,0.038023&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?q=237+NE+Broadway,+Suite+100+Portland,+OR+97232&amp;ie=UTF8&amp;hq=&amp;hnear=237+NE+Broadway+St,+Portland,+Oregon+97232&amp;gl=us&amp;ll=45.535333,-122.663383&amp;spn=0.013407,0.038023&amp;z=14&amp;source=embed" >View Larger Map</a></small>
+				</div>
 				<h3>Contact:</h3>
 				<ul>
 					<li><strong>Address: </strong>237 NE Broadway, Suite 100 Portland, OR 97232</li>

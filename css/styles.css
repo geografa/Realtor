@@ -606,6 +606,17 @@ ul.socialize li a {
 	border-left-style: solid;
 	border-left-color: #404040;
 }
+#inner-sidebar {
+	width: 250px;
+	padding-top: 20px;
+}
+#inner-sidebar.right {
+	float: right;
+	padding-left: 0px;
+	/*border-left-width: 1px;
+		border-left-style: solid;
+		border-left-color: #404040;*/
+}
 #inner-content {
 	width: 650px;
 	float: left;
@@ -1070,8 +1081,8 @@ p.success {
 ***************************************************/
 .contact-information {
 	padding-bottom: 15px;
-} 
-.contact-information img.map {
+}
+.contact-information .map {
 	float: left;
 	background-color: #7A7A7A;
 	padding: 8px;

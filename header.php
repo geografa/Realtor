@@ -33,7 +33,7 @@
 <body>
 	<div id="header">
 		<div class="header">
-			<div id="logo">	
+			<div id="logo">
 				<a href="index.php?page=home"><img src="images/logo.png" alt="Talk to Karim Logo" /></a>
 			</div>
 			<div id="logo_text">

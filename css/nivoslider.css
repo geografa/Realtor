@@ -74,19 +74,19 @@
 	border:0;
 	float:left;
 	text-indent:-99999px;
-	background-color: #333333;
+	background-color: #CCC;
 	-moz-border-radius: 3px; 
 	-webkit-border-radius: 3px; 		
 	border-radius: 3px;
 	margin-right: 7px;
 }
 .nivo-controlNav a:hover {
-	background-color: #FFFFFF;
+	background-color: #3C3;
 }
 .nivo-controlNav a.active {
 	display:block;
 	border:0;
-	background-color: #390;
+	background-color: #696;
 }
 /* Caption styles */
 .nivo-caption {

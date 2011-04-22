@@ -10,11 +10,17 @@
 <div class="slideshow-container">
 	<div class="slideshow">
 		<div class="nivoSlider" id="slidernivo">
-			<img src="images/slide1.1.jpg" width="640" height="480" alt="Slide1.1">
-			<img src="images/slide2.1.jpg" width="640" height="480" alt="Slide2.1">
-			<img src="images/slide3.1.jpg" width="640" height="480" alt="Slide3.1">
-			<img src="images/slide4.1.jpg" width="640" height="480" alt="Slide4.1">
-			<img src="images/slide5.1.jpg" width="640" height="480" alt="Slide5.1">
+			<?php
+			$dir = scandir("images/slides");
+			$result = count($dir);
+			$i=0;
+			while($i<=$result)
+				{
+					echo "<img src='images/slides/$dir[$i]' />";
+					$i++;
+				}
+			?>
+			<!-- <img src="images/slides/slide1.1.jpg" /> -->
 		</div><!--END slidernivo-->
 	
 	</div><!--END slideshow-->

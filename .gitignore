@@ -6,3 +6,5 @@ javascript/
 inc/config.php
 more_photos/
 old_js/
+images/slides
+.DS_Store

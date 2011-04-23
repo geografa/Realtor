@@ -34,10 +34,10 @@
 	<div id="header">
 		<div class="header">
 			<div id="logo">
-				<a href="index.php?page=home"><img src="images/logo.png" alt="Talk to Karim Logo" /></a>
+				<a href="index.php?page=Home"><img src="images/logo.png" alt="Talk to Karim Logo" /></a>
 			</div>
 			<div id="logo_text">
-				<a href="index.php?page=home"><img src="images/logo_text5.png" alt="Talk to Karim" /></a>
+				<a href="index.php?page=Home"><img src="images/logo_text5.png" alt="Talk to Karim" /></a>
 			</div><!--END logo_text-->
 			<div id="smoothmenu1">
 				<ul>				

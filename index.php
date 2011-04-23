@@ -1,8 +1,9 @@
 <?php
+
 	$page = $_GET['page'];
 	
 	if (!$page) {
-		$page = "home";
+		$page = "Home";
 	}
 	include("header.php");
 	

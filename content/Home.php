@@ -24,12 +24,9 @@
 		</div><!--END slidernivo-->
 	
 	</div><!--END slideshow-->
-		
-</div><!--END slideshow-container-->
-
-
 	<div class="services-list-bottom">
 	</div><!--END services-list-bottom-->
-</div><!--END slideshow container-->     
+		
+</div><!--END slideshow-container-->
 
 <!-- end main content -->

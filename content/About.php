@@ -33,10 +33,10 @@
 					</div><!--END slidernivo-->
 									
 				</div><!--END slideshow-->
-
+				<div class="services-list-bottom" style="width: 720px"> <!-- This is a hack FIX THIS -->
+				</div><!--END services-list-bottom-->
+			
 			</div><!--END slideshow-container-->
-
-
 
 	</div><!--END content-->
 </div><!-- #wrapper -->

@@ -10,7 +10,7 @@
 
 		<div class="two-even">
 			<h1>About us</h1>
-				<p>Karim & Leonie are parents of 2 boys, SE Portland residents and world travelers... We are very lucky to have family to visit all over the world. We've recently traveled to England, Scotland, Australia, France, Senegal... all to visit close family.</p>
+				<p>Karim & Leonie are parents of two boys, SE Portland residents and world travelers. We are very lucky to have family to visit all over the world. Our travels have taken us to England, Scotland, Australia, France, Senegal...all to visit close family.</p>
 		</div>
 
 		<div class="two-even last">		

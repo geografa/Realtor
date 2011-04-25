@@ -14,6 +14,9 @@
 <script src="javascript/nivoslider.js" type="text/javascript"></script>
 <link href="css/nivoslider.css" rel="stylesheet" type="text/css" />
 
+<!-- Blog CSS Files -->
+<link rel="stylesheet" href="css/blog.css" type="text/css" charset="utf-8">
+
 <!-- Cufon JavaScript Files -->
 <script src="javascript/cufon.js" type="text/javascript"></script> 
 <script type="text/javascript">

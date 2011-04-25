@@ -111,8 +111,8 @@ a:hover {
 	margin-left: 12px;
 }
 .imgborder {
-	background-color: #333333;
-	padding: 6px;
+	background-color: #FFF;
+	padding: 10px;
 	-moz-border-radius: 3px;
 	-webkit-border-radius:3px;
 	border-radius:3px;
@@ -741,7 +741,7 @@ a.twitter-follow {
 					TESTIMONIALS
  *********************************************************************/
 .authors {
-	color: #999999;
+	color: #333;
 	text-align: right;
 	display: block;
 	font-weight: bold;

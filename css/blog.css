@@ -79,10 +79,11 @@
 	float: left;
 }
 .post-entry .text {
-	padding: 10px;
+	color: #666;
+/*	padding: 10px;
 	text-align: left;
 	margin: 0px;
-	float: left;
+	float: left;*/
 }
 .post-entry a.title {
 	font-size:20px;
@@ -375,7 +376,7 @@ p.success {
 	padding-right: 5px;
 	padding-bottom: 8px;
 	padding-left: 5px;
-	background-color: #282828;
+	background-color: #CCC;
 	border: none;
 	color: #666666;
 	margin-right: 7px;

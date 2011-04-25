@@ -43,11 +43,6 @@
 						<label>PHONE</label>
 						<input type="text" name="phone" id="phone" value="" />
 					</li>
-												
-					<li>
-						<label>URL</label>
-						<input type="text" name="url" id="url" value="" />
-					</li>
 										
 					<li class="textarea">
 						<label>MESSAGE <em>*</em></label>

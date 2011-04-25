@@ -11,7 +11,8 @@
 	<div id="content">
 
 		<div id="inner-sidebar" class="right">
-				<h3>Karim & Leonie are parents of 2 boys, SE Portland residents and world travelers... We are very lucky to have family to visit all over the world. We've recently traveled to England, Scotland, Australia, France, Senegal... all to visit close family.</h4>
+				<p>As a Realtor working in Portland, I have created this site as a resource for buyers & sellers who want to be proactive and well informed about the current market. If you are interested in buying or selling, please <strong><a href="index.php?page=Listings">sign up to receive a daily listing email</a></strong>. I look forward to talking with you about houses.</p><br />
+				<p>Karim & Leonie are parents of 2 boys, SE Portland residents and world travelers... We are very lucky to have family to visit all over the world. We've recently traveled to England, Scotland, Australia, France, Senegal... all to visit close family.</p><br />
 		</div><!--END inner-sidebar-->
 		
 			<div class="slideshow-container">

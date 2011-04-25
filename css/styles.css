@@ -32,7 +32,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 body {
 	height: 100%;
-	font-size: 12px;
+	font-size: 14px;
 	color: #ECECEC;
 	margin: 0px;
 	padding: 0px;
@@ -82,7 +82,7 @@ input:focus, textarea:focus {
 }
 a {
 	text-decoration: none;
-	color: #333;
+	color: #036;
 }
 a:hover {
 	text-decoration: underline;
@@ -615,11 +615,15 @@ ul.socialize li a {
 }
 #inner-sidebar.right {
 	float: right;
-	padding-left: 0px;
-	/*border-left-width: 1px;
-		border-left-style: solid;
-		border-left-color: #404040;*/
 }
+
+#inner-sidebar.leftborder {
+	padding-left: 20px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #404040;*/
+}
+
 #inner-content {
 	width: 650px;
 	float: left;

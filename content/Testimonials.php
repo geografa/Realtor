@@ -19,23 +19,24 @@
 
 				<div class="post-entry">
 				<img src="images/testimonials/front_2.jpg" width="240" height="180" alt="Front Porch" class="imgleft imgborder">
-					<p class="italic text">I found the entire process of working together with Karim and Leonie easy, synergistic, exciting and natural. From beginning to end we were partners and I was truly invigorated to sell my beloved home. We set out our goals to have the house sale ready within 30 days and to sell in a desired price range and close by the end of the following 30 days, and that is exactly what happened! I could not have imagined a more enjoyable journey and am so very grateful to have worked with two such positive, helpful and supportive people.</p>
-					<p class="authors">Emily & Jamie	- Purchase ~ N Portland</p>
+					<p class="italic text">We were fortunate that a family member referred Karim to be one of five realtors we interviewed for this journey of selling our first home and buying our “dream home.” We finally found our dream home but attached was a difficult seller, that Karim handled wonderfully. He took great care of us through our transactions, making our journey a positive experience from beginning to end. THANK YOU KARIM!</p>
+					<p class="authors">Andy & Lesley	Sale ~ NE Portland	Purchase ~ Milwaukie</p>
 				</div>
 				<div class="post-entry">
 				<img src="images/testimonials/front_3.jpg" width="240" height="180" alt="Front Porch" class="imgleft imgborder">
-					<p class="italic text">I found the entire process of working together with Karim and Leonie easy, synergistic, exciting and natural. From beginning to end we were partners and I was truly invigorated to sell my beloved home. We set out our goals to have the house sale ready within 30 days and to sell in a desired price range and close by the end of the following 30 days, and that is exactly what happened! I could not have imagined a more enjoyable journey and am so very grateful to have worked with two such positive, helpful and supportive people.</p>
-					<p class="authors">Emily & Jamie	- Purchase ~ N Portland</p>
+					<p class="italic text">Karim is wonderful! We immediately felt comfortable with him as well as confident that we would find a house. Karim gave us insight about house structure & systems and the ins and outs of what we could expect if we bought the house because of his previous experience as a contractor. He never tried to "sell" us on a house and we knew he truly wanted us to find the perfect house. He not only organized everything but went above and beyond what was expected while keeping us informed through the entire process. - Very happy 1st time home buyers :)</p>
+					<p class="authors">Dan & Mirra ~ Purchase ~ SE Portland</p>
+				</div>
+				<div class="post-entry">
+				<img src="images/testimonials/front_6.jpg" width="240" height="180" alt="Front Porch" class="imgleft imgborder">
+					<p class="italic text">Having had a previous experience with another realtor, we were amazed at how different and how much better our experience with Karim was. He demystified the home-buying process for us, answering questions we didn’t even know we had and taking care of so many of the small and large steps involved, all of which reduced our anxiety considerably and made the whole endeavor very seamless. We fully trusted that Karim always had our best interest in mind.
+					He advocated for us, offered us sound guidance, respected our decisions while also offering caution when necessary, referred us to other skilled professionals, and ultimately found us a fantastic house. We are so pleased to have worked with Karim, and we continue to recommend him to others.</p>
+					<p class="authors">Emily & Jamie ~ Purchase ~ N Portland</p>
 				</div>
 				<div class="post-entry">
 				<img src="images/testimonials/front_6.jpg" width="240" height="180" alt="Front Porch" class="imgleft imgborder">
 					<p class="italic text">I found the entire process of working together with Karim and Leonie easy, synergistic, exciting and natural. From beginning to end we were partners and I was truly invigorated to sell my beloved home. We set out our goals to have the house sale ready within 30 days and to sell in a desired price range and close by the end of the following 30 days, and that is exactly what happened! I could not have imagined a more enjoyable journey and am so very grateful to have worked with two such positive, helpful and supportive people.</p>
-					<p class="authors">Emily & Jamie	- Purchase ~ N Portland</p>
-				</div>
-				<div class="post-entry">
-				<img src="images/testimonials/front_6.jpg" width="240" height="180" alt="Front Porch" class="imgleft imgborder">
-					<p class="italic text">I found the entire process of working together with Karim and Leonie easy, synergistic, exciting and natural. From beginning to end we were partners and I was truly invigorated to sell my beloved home. We set out our goals to have the house sale ready within 30 days and to sell in a desired price range and close by the end of the following 30 days, and that is exactly what happened! I could not have imagined a more enjoyable journey and am so very grateful to have worked with two such positive, helpful and supportive people.</p>
-					<p class="authors">Emily & Jamie	- Purchase ~ N Portland</p>
+					<p class="authors">Joslin ~	Sale ~ SE Portland</p>
 				</div>
 
 	</div><!--END content-->

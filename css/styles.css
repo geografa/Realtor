@@ -1072,9 +1072,10 @@ p.success {
 	-moz-border-radius:3px; 
 	-webkit-border-radius:3px;
 	border-radius:3px;
-	background-color: #333333;
+	background-color: #7A7A7A;
 	padding: 15px;
 	width: 440px;
+	color: #FFF;
 }
 #contact-form .error {
 	color: #F90;

@@ -16,7 +16,7 @@
 			$i=3;
 			while($i<=$result)
 				{
-					echo "<img src='images/slides/$dir[$i]' />";
+					echo "<a href='index.php?page=Testimonials'><img src='images/slides/$dir[$i]' /></a>";
 					$i++;
 				}
 			?>

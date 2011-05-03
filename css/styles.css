@@ -693,6 +693,13 @@ ul.socialize li a {
 	padding: 10px;
 }
 
+#signup {
+	background-image: url("../images/signup.png");
+	background-position: center top;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 50px;
+}
 /***************************************************
 				TWITTER
 ***************************************************/

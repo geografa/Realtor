@@ -9,18 +9,20 @@
 		</div>
 
 		<div class="two-even">
-			<h1>Karim and Leonie</h1>
-				<p>Karim and Leonie are parents of two boys, SE Portland residents and world travelers. We are very lucky to have family to visit all over the world. Our travels have taken us to England, Scotland, Australia, France, Senegal...all to visit close family.</p>
+			<h1>Contact</h1>
+			<ul>
+				<li><strong>Address: </strong>237 NE Broadway, Suite 100 Portland, OR 97232</li>
+				<li><strong>Karim's Telephone: </strong>503-309-2290</li>
+				<li><strong>Facsimile: </strong>503-284-1618</li>
+				<li><strong>Email: </strong><a href="#">talktokarim@gmail.com</a></li>
+			</ul>
 		</div>
 
-		<div class="two-even last">		
-			<h1>Contact</h1>
-				<ul>
-					<li><strong>Address: </strong>237 NE Broadway, Suite 100 Portland, OR 97232</li>
-					<li><strong>Karim's Telephone: </strong>503-309-2290</li>
-					<li><strong>Facsimile: </strong>503-284-1618</li>
-					<li><strong>Email: </strong><a href="#">talktokarim@gmail.com</a></li>
-				</ul>
+		<div class="two-even last">
+			<h1>Sign Up for Daily Listing Emails</h1>	
+			<a href="index.php?page=Listings">
+				<div id="signup"></div>
+			</a>			
 		</div>
 	</div><!--END footer_text-->
 </div><!--END footer-wrapper-->

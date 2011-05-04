@@ -11,7 +11,8 @@
 	<div id="content">
 
 		<div id="inner-sidebar" class="right">
-				<h3>As a Realtor working in Portland, I have created this site as a resource for buyers & sellers who want to be proactive and well informed about the current market. If you are interested in buying or selling, please <a href="index.php?page=Listings">sign up to receive a daily listing email</a>. I look forward to talking with you about houses.</h3>
+				<h4>Karim & Leonie have been realtors since 2006 & 2003 respectively. We love life in Portland with our two beautiful sons and amazing community. We also love Portland’s fantastic homes and eclectic neighborhoods, as well as the never ending process of restoring our own turn of the century home.</h4><br />
+				<h4>Leonie has lived in Oregon since 1990. Karim is a Portland native, and proud of it. Our families, however, come from far and wide. We’re very grateful to have friends and family all over the world to visit… and even more grateful to live somewhere as naturally stunning as Oregon. And we always enjoy coming home to Portland.</h4>
 
 		</div><!--END inner-sidebar-->
 		
@@ -35,8 +36,6 @@
 									
 				</div><!--END slideshow-->
 				<div class="services-list-bottom" style="width: 720px"> <!-- This is a hack FIX THIS -->
-					<br />
-					<h5>Karim & Leonie are parents of two boys, SE Portland residents and world travelers. We are very lucky to have family to visit all over the world. Our travels have taken us to England, Scotland, Australia, France, Senegal...all to visit close family.</h5>
 				</div><!--END services-list-bottom-->
 				<br />
 			</div><!--END slideshow-container-->

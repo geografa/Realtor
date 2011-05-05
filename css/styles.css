@@ -612,6 +612,7 @@ ul.socialize li a {
 #inner-sidebar {
 	width: 240px;
 	padding-top: 20px;
+	margin-top: 0px;
 }
 #inner-sidebar.right {
 	float: right;
@@ -629,6 +630,24 @@ ul.socialize li a {
 	float: left;
 	color: #333;
 }
+
+
+#inner-content-map {
+	background-color: #FFF;
+  border: 1px solid #333333;
+  color: #333333;
+  float: left;
+  padding-right: 10px;
+/*	padding-left: 10px;*/
+  width: 650px;
+}
+
+#inner-content-map div {
+  padding: 15px;
+}
+
+
+
 #inner-content-full {
 	width: 960px;
 	float: left;
@@ -685,6 +704,7 @@ ul.socialize li a {
 
 .img {
 	border-radius:3px;
+	border: 1px solid #999;;
 	background-color: #FFF;
 	margin: 10px;
 	 -moz-border-radius:3px;

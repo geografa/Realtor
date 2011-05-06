@@ -11,7 +11,7 @@
 	<div id="content">
 
 		<div id="inner-sidebar" class="right">
-				<h4>Karim & Leonie have been realtors since 2006 & 2003 respectively. We love life in Portland with our two beautiful sons and amazing community. We also love Portland’s fantastic homes and eclectic neighborhoods, as well as the never ending process of restoring our own turn of the century home.</h4><br />
+				<h4>Karim & Leonie have been realtors since 2006 & 2003 respectively. We love life in Portland with our two beautiful sons and amazing community. We also love Portland’s fantastic homes and eclectic neighborhoods, and the never ending process of restoring our own turn of the century home.</h4><br />
 				<h4>Leonie has lived in Oregon since 1990. Karim is a Portland native, and proud of it. Our families, however, come from far and wide. We’re very grateful to have friends and family all over the world to visit… and even more grateful to live somewhere as naturally stunning as Oregon. And we always enjoy coming home to Portland.</h4>
 
 		</div><!--END inner-sidebar-->

@@ -10,11 +10,9 @@
 	<div id="inner-sidebar" class="right leftborder img">
 		<h4>How to Use the Map</h4>
 			<br />
-			<p>Complete the form to the left if you would like to receive current  email listings. You will start getting these Daily Emails the following day. You will never be spammed from this source.</p>
-			<p>Use the <img src="images/zoom.png" width="23" height="23" alt="Zoom"> magnify tool to zoom to a location or neighborhood on the map. Use the <img src="images/select.png" width="23" height="23" alt="Select"> Select tool to select a neighborhood. Slected neighborhoods will appear in the list to the right of the form.</p>
+			<p>Complete the form to the left <strong>TO BEGIN RECEIVING HOME LISTINGS.THESE DAILY EMAILS WILL KEEP YOU UP TO DATE ON MARKET ACTIVITY IN YOUR DESIRED NEIGHBORHOODS</strong>. And you will never be spammed from this source.</p>
+			<p>Use the <img src="images/zoom.png" width="23" height="23" alt="Zoom"> <strong>Magnify tool</strong> to zoom into a location or neighborhood on the map. Use the <img src="images/select.png" width="23" height="23" alt="Select"> <strong>Select tool</strong> to select a neighborhood. Selected neighborhoods will appear in the list above form.</p>
 			<p>Example:</p><img src="images/selected.png" width="200" height="111" alt="Selected">
-			<p>Be sure to enter a number to limit your search criteria. For example, type '300' and '400' to limit the price range from $300,000 to $400,000</p>
-			<p>Example:</p><img src="images/price.png" width="215" height="32" alt="Price">
 	</div><!--END inner-sidebar-->
 	<div id="inner-content-map">
 		<iframe style="WIDTH: 660px; HEIGHT: 800px" border="0" src="http://www.pdxhomequest.com/map.php?site=1077" frameborder="1" scrolling="no"></iframe>

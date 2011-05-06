@@ -19,8 +19,8 @@
 				<ul>
 					<li><strong>Address: </strong>237 NE Broadway, Suite 100 Portland, OR 97232</li>
 					<li><strong>Office Tel: </strong>503-287-8989</li>
-					<li><strong>Karim's Mobile Phone: </strong>503-309-2290</li>
-					<li><strong>Fax: </strong>503-284-1618</li>
+					<li><strong>Karim's Telehone: </strong>503-309-2290</li>
+					<li><strong>Facsimile: </strong>503-284-1618</li>
 					<li><strong>Email: </strong><a href="#">talktokarim@gmail.com</a></li>
 				</ul>
 			</div><!--END contact-information-->	

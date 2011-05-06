@@ -66,7 +66,7 @@
 		<div class="border-divider"></div>
 	
 		<div id="testimonials">
-		<img src="images/testimonials/kitchen_4.jpg" width="240" height="180" alt="thumbnail" class="imgleft imgborder">
+		<img src="images/testimonials/giraffe.jpg" width="240" height="180" alt="thumbnail" class="imgleft imgborder">
 			<p class="italic text">I had a wonderful experience working with Karim and Leonie and happily recommend them to anyone looking to buy or sell their home. My 70-year-old parents moved from across the country to retire in Portland and hoped to find a home to fit their very specific needs. It was immediately apparent that Karim and Leonie were up to the challenge; not only did they understand my parents' needs, but they anticipated them. With patience and enthusiasm, Karim and Leonie helped us navigate the Portland real estate market and found my parents a home that exceeded our expectations. They operate their business with a high level of competence and integrity, and genuinely want their clients to be satisfied. By the time the home was purchased, Karim and Leonie felt like family. We could not have asked for better service, and to this day, they continue to be a valuable resource for all things Portland.</p>
 			<ul>Sujata, Purchase</ul>
 			<ul>Southeast Portland</ul>
@@ -74,7 +74,7 @@
 		<div class="border-divider"></div>
 	
 		<div id="testimonials">
-		<img src="images/testimonials/office.jpg" width="240" height="180" alt="thumbnail" class="imgleft imgborder">
+		<img src="images/testimonials/stairs.jpg" width="240" height="180" alt="thumbnail" class="imgleft imgborder">
 			<p class="italic text">This whole journey spoke loudly of Karim and Leonie’s personalities. They truly care for their clients, and their main mission is to see their clients proud and happy in their new home. We are not the easiest clients... and we will recommend Karim and Leonie for their superb communication skills, patience and general interest in what the client wants & needs. They take pride in their work and love what they do. It has been a delight to work with them and we recommend this team highly.</p>
 			<ul>Shiv & Sileen, Purchase</ul>
 			<ul>Southeast Portland</ul>

@@ -1,3 +1,5 @@
+</div><!-- #wrapper -->
+
 <!--footer-->
 <div id="footer-wrapper">
 	<div class="footer_text">

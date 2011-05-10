@@ -4,36 +4,27 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Talk to Karim</title>
+<link rel="stylesheet" href="css/styles.css" type="text/css" media="screen" /> 
 <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="css/styles.css" type="text/css" media="screen" />  
+<link rel="stylesheet" href="css/blog.css" type="text/css" media="screen" />
 
-<script type="text/javascript" src="javascript/jquery.js"></script>
-<script type="text/javascript" src="javascript/custom.js"></script>
-
-<!-- Nivoslider JavaScript/CSS Files -->
-<script src="javascript/nivoslider.js" type="text/javascript"></script>
-<link href="css/nivoslider.css" rel="stylesheet" type="text/css" />
-
-<!-- Blog CSS Files -->
-<link rel="stylesheet" href="css/blog.css" type="text/css" charset="utf-8">
+<script src="javascript/jquery.js" type="text/javascript"></script>
+<script src="javascript/custom.js" type="text/javascript"></script>
 
 <!-- Cufon JavaScript Files -->
-<script src="javascript/cufon.js" type="text/javascript"></script> 
+<script src="javascript/cufon.js" type="text/javascript"></script>
 <script type="text/javascript">
 	Cufon.replace('h1, h2, h3, h4, h5',{ hover: 'true' });		
 </script>
 
+<!-- Nivoslider JavaScript Files -->
+<script src="javascript/nivoslider.js" type="text/javascript"></script>
+<link href="css/nivoslider.css" rel="stylesheet" type="text/css" />
 
-<!-- Map specific 
-<style type="text/css" media="screen">
-<!--
-@import "css/tabs.css";
--->
-</style>
-<!-- <link rel="stylesheet" href="css/sitestyle5.css" type="text/css"> -->
 </head>
 
 <body>
+	<div id="wrapper">
 	<div id="header">
 		<div class="header">
 			<div id="logo">

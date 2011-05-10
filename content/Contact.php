@@ -6,8 +6,6 @@
 	</div><!--END intro-->
 </div><!--END intro-holder-->
 
-<div id="wrapper">
-
 	<div id="content">
 		
 		<div class="two-even">
@@ -54,5 +52,3 @@
 			</form><!--END form ID contact_form-->
 		</div><!--END two-even last-->	
 	</div><!--END content-->
-		
-</div><!-- #wrapper -->

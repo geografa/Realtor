@@ -1,14 +1,13 @@
 .slideshow-container{
 	width:100%;
-	
-/*	background-image: url(../images/shadow-slideshow.jpg);
-	background-repeat: no-repeat;
+/*	background-image: url(../images/shadow-slideshow.jpg);*/
+/*	background-repeat: no-repeat;
 	background-position: center bottom;*/
 }
 .slideshow{
 	margin-left:auto;
 	margin-right:auto;
-	width:960px;
+/*	width:960px;*/ /*conflicts with MSIE so commented out*/
 	padding-top:15px;
 	height: 540px;
 }

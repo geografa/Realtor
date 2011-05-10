@@ -5,8 +5,6 @@
 		</div><!--END blurb-->		
 	</div><!--END intro-->
 </div><!--END intro-holder-->
-
-<div id="wrapper">
 	
 	<div id="content">
 
@@ -18,7 +16,7 @@
 		
 			<div class="slideshow-container">
 				
-				<div class="slideshow">					
+				<div class="slideshow">
 				
 					<div class="nivoSlider left" id="slidernivo">
 						<?php
@@ -35,10 +33,9 @@
 					</div><!--END slidernivo-->
 									
 				</div><!--END slideshow-->
-				<div class="services-list-bottom" style="width: 720px"> <!-- This is a hack FIX THIS -->
-				</div><!--END services-list-bottom-->
-				<br />
+				
 			</div><!--END slideshow-container-->
-
+			<div class="services-list-bottom" style="width: 720px"> <!-- This is a hack FIX THIS -->
+			</div><!--END services-list-bottom-->
+			<br />
 	</div><!--END content-->
-</div><!-- #wrapper -->

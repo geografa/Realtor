@@ -12,8 +12,8 @@
 				<?php
 				$dir = scandir("images/slides");
 				$result = count($dir);
-				$i=3;
-				while($i<=$result)
+				$i=2;
+				while($i<$result)
 					{
 						echo "<a href='index.php?page=Testimonials'><img src='images/slides/$dir[$i]' /></a>";
 						$i++;

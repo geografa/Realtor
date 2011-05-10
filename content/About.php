@@ -22,8 +22,8 @@
 						<?php
 						$dir = scandir("images/about");
 						$result = count($dir);
-						$i=3;
-						while($i<=$result)
+						$i=2;
+						while($i<$result)
 							{
 								echo "<img src='images/about/$dir[$i]' />";
 								$i++;

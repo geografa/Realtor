@@ -10,7 +10,7 @@
 	<div id="inner-sidebar" class="right leftborder img">
 		<h4>How to Use the Map</h4>
 			<br />
-			<p>Complete the form to the left <strong>TO BEGIN RECEIVING HOME LISTINGS.THESE DAILY EMAILS WILL KEEP YOU UP TO DATE ON MARKET ACTIVITY IN YOUR DESIRED NEIGHBORHOODS</strong>. And you will never be spammed from this source.</p>
+			<p>Complete the form to the left to begin receiving home listings. These Daily Emails will keep you up to date on market activity in your desired neighborhoods. And you will never be spammed from this source.</p>
 			<p>Use the <img src="images/zoom.png" width="23" height="23" alt="Zoom"> <strong>Magnify tool</strong> to zoom into a location or neighborhood on the map. Use the <img src="images/select.png" width="23" height="23" alt="Select"> <strong>Select tool</strong> to select a neighborhood. Selected neighborhoods will appear in the list above form.</p>
 			<p>Example:</p><img src="images/selected.png" width="200" height="111" alt="Selected">
 	</div><!--END inner-sidebar-->

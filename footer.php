@@ -14,6 +14,7 @@
 			<h1>Contact</h1>
 			<ul>
 				<li><strong>Address: </strong>237 NE Broadway, Suite 100 Portland, OR 97232</li>
+				<li>Remax Equity Group</li>
 				<li><strong>Karim's Telephone: </strong>503-309-2290</li>
 				<li><strong>Facsimile: </strong>503-284-1618</li>
 				<li><strong>Email: </strong><a href="#">talktokarim@gmail.com</a></li>

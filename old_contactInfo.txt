@@ -1,0 +1,27 @@
+	<div class="two-even last">
+		<form action="send.php" id="contact-form" method="post">
+			<ul>				
+				<li>
+					<label>NAME <em>*</em></label>
+					<input type="text" name="name" id="name" value="" class="requiredField" />
+				</li>
+										
+				<li>
+					<label>EMAIL <em>*</em></label>					
+					<input type="text" name="email" id="email" value="" class="requiredField email" />
+				</li>
+											
+				<li>
+					<label>PHONE</label>
+					<input type="text" name="phone" id="phone" value="" />
+				</li>
+									
+				<li class="textarea">
+					<label>MESSAGE <em>*</em></label>
+					<textarea name="message" id="message" rows="20" cols="30" class="requiredField"></textarea>
+				</li>
+											
+				<li class="button"><input name="submitted" id="submitted" value="Send Message" class="submit" type="submit" /></li>
+			</ul><!--END ul-->
+		</form><!--END form ID contact_form-->
+	</div><!--END two-even last-->

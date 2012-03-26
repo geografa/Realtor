@@ -3,7 +3,11 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Talk to Karim</title>
+<meta name="description" content="Real Estate" />
+<meta name="keywords" content="Real Estate,Karim,Karim Alaeddine,Portland" />
+<meta name="author" content="Karim Aaeddine" />
+
+<title>Karim and Leonie</title>
 <link rel="stylesheet" href="css/styles.css" type="text/css" media="screen" /> 
 <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/blog.css" type="text/css" media="screen" />
